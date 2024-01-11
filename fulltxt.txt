@@ -2,7 +2,7 @@ atme@atme-HP-280-Pro-G6-Microtower-PC:~$ cd ci046
 atme@atme-HP-280-Pro-G6-Microtower-PC:~/ci046$ 
 atme@atme-HP-280-Pro-G6-Microtower-PC:~/ci046$ 
 atme@atme-HP-280-Pro-G6-Microtower-PC:~/ci046$ 
-atme@atme-HP-280-Pro-G6-Microtower-PC:~/ci046$ ls
+
 a.txt  git.txt
 atme@atme-HP-280-Pro-G6-Microtower-PC:~/ci046$ 
 atme@atme-HP-280-Pro-G6-Microtower-PC:~/ci046$ 
