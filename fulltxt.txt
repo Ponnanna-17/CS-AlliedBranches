@@ -271,5 +271,5 @@ Writing objects: 100% (5/5), 494 bytes | 494.00 KiB/s, done.
 Total 5 (delta 0), reused 0 (delta 0)
 To github.com:Ponnanna-17/CS-AlliedBranches
    5942fcb..bb0e2cd  p1 -> p1
-atme@atme-HP-280-Pro-G6-Microtower-PC:~/ci046/folder1/CS-AlliedBranches$ 
+
 
